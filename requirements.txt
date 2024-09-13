@@ -83,6 +83,7 @@ tifffile==2024.8.30
 torch==2.4.1
 torchvision==0.19.1
 tornado==6.4.1
+tqdm==4.66.5
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
