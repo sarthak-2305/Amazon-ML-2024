@@ -6,7 +6,7 @@ import pandas as pd
 import multiprocessing
 import time
 from time import time as timer
-from tqdm import tqdm
+import tqdm
 import numpy as np
 from pathlib import Path
 from functools import partial
